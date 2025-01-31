@@ -1,3 +1,6 @@
+LOCAL
+This is a demo repository to learn about Git conflicts.
+
 # website-flow
 # My Favorite Pizza Cheeses
 1. Mozzarella
